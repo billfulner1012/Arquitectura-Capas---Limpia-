@@ -1,0 +1,18 @@
+C:\Users\Apolo\source\repos\crud\capanegocio\bin\Debug\capanegocio.dll
+C:\Users\Apolo\source\repos\crud\capanegocio\bin\Debug\capanegocio.pdb
+C:\Users\Apolo\source\repos\crud\capanegocio\bin\Debug\capadatos.dll
+C:\Users\Apolo\source\repos\crud\capanegocio\bin\Debug\capadatos.pdb
+C:\Users\Apolo\source\repos\crud\capanegocio\obj\Debug\capanegocio.csprojAssemblyReference.cache
+C:\Users\Apolo\source\repos\crud\capanegocio\obj\Debug\capanegocio.csproj.CoreCompileInputs.cache
+C:\Users\Apolo\source\repos\crud\capanegocio\obj\Debug\capanegocio.csproj.CopyComplete
+C:\Users\Apolo\source\repos\crud\capanegocio\obj\Debug\capanegocio.dll
+C:\Users\Apolo\source\repos\crud\capanegocio\obj\Debug\capanegocio.pdb
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capanegocio\bin\Debug\capanegocio.dll
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capanegocio\bin\Debug\capanegocio.pdb
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capanegocio\bin\Debug\capadatos.dll
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capanegocio\bin\Debug\capadatos.pdb
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capanegocio\obj\Debug\capanegocio.csproj.AssemblyReference.cache
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capanegocio\obj\Debug\capanegocio.csproj.CoreCompileInputs.cache
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capanegocio\obj\Debug\capanegocio.csproj.CopyComplete
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capanegocio\obj\Debug\capanegocio.dll
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capanegocio\obj\Debug\capanegocio.pdb

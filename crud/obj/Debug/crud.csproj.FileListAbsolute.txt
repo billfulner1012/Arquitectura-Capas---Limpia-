@@ -1,0 +1,33 @@
+C:\Users\Apolo\source\repos\crud\crud\bin\Debug\crud.exe.config
+C:\Users\Apolo\source\repos\crud\crud\bin\Debug\crud.exe
+C:\Users\Apolo\source\repos\crud\crud\bin\Debug\crud.pdb
+C:\Users\Apolo\source\repos\crud\crud\bin\Debug\capapresentacion.dll
+C:\Users\Apolo\source\repos\crud\crud\bin\Debug\capapresentacion.pdb
+C:\Users\Apolo\source\repos\crud\crud\obj\Debug\crud.csprojAssemblyReference.cache
+C:\Users\Apolo\source\repos\crud\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\Apolo\source\repos\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+C:\Users\Apolo\source\repos\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+C:\Users\Apolo\source\repos\crud\crud\obj\Debug\crud.csproj.CopyComplete
+C:\Users\Apolo\source\repos\crud\crud\obj\Debug\crud.exe
+C:\Users\Apolo\source\repos\crud\crud\obj\Debug\crud.pdb
+C:\Users\Apolo\source\repos\crud\crud\bin\Debug\capanegocio.dll
+C:\Users\Apolo\source\repos\crud\crud\bin\Debug\capadatos.dll
+C:\Users\Apolo\source\repos\crud\crud\bin\Debug\capanegocio.pdb
+C:\Users\Apolo\source\repos\crud\crud\bin\Debug\capadatos.pdb
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\bin\Debug\crud.exe.config
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\bin\Debug\crud.exe
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\bin\Debug\crud.pdb
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\bin\Debug\capapresentacion.dll
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\bin\Debug\capanegocio.dll
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\bin\Debug\capadatos.dll
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\bin\Debug\capapresentacion.pdb
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\bin\Debug\capanegocio.pdb
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\bin\Debug\capadatos.pdb
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\obj\Debug\crud.csproj.AssemblyReference.cache
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\obj\Debug\crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\obj\Debug\crud.csproj.CopyComplete
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\obj\Debug\crud.exe
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\crud\obj\Debug\crud.pdb

@@ -1,0 +1,26 @@
+C:\Users\Apolo\source\repos\crud\capapresentacion\bin\Debug\capapresentacion.dll
+C:\Users\Apolo\source\repos\crud\capapresentacion\bin\Debug\capapresentacion.pdb
+C:\Users\Apolo\source\repos\crud\capapresentacion\bin\Debug\capanegocio.dll
+C:\Users\Apolo\source\repos\crud\capapresentacion\bin\Debug\capadatos.dll
+C:\Users\Apolo\source\repos\crud\capapresentacion\bin\Debug\capanegocio.pdb
+C:\Users\Apolo\source\repos\crud\capapresentacion\bin\Debug\capadatos.pdb
+C:\Users\Apolo\source\repos\crud\capapresentacion\obj\Debug\capapresentacion.csprojAssemblyReference.cache
+C:\Users\Apolo\source\repos\crud\capapresentacion\obj\Debug\capapresentacion.frmClientes.resources
+C:\Users\Apolo\source\repos\crud\capapresentacion\obj\Debug\capapresentacion.csproj.GenerateResource.cache
+C:\Users\Apolo\source\repos\crud\capapresentacion\obj\Debug\capapresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Apolo\source\repos\crud\capapresentacion\obj\Debug\capapresentacion.csproj.CopyComplete
+C:\Users\Apolo\source\repos\crud\capapresentacion\obj\Debug\capapresentacion.dll
+C:\Users\Apolo\source\repos\crud\capapresentacion\obj\Debug\capapresentacion.pdb
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\bin\Debug\capapresentacion.dll
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\bin\Debug\capapresentacion.pdb
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\bin\Debug\capanegocio.dll
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\bin\Debug\capadatos.dll
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\bin\Debug\capanegocio.pdb
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\bin\Debug\capadatos.pdb
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\obj\Debug\capapresentacion.csproj.AssemblyReference.cache
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\obj\Debug\capapresentacion.frmClientes.resources
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\obj\Debug\capapresentacion.csproj.GenerateResource.cache
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\obj\Debug\capapresentacion.csproj.CoreCompileInputs.cache
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\obj\Debug\capapresentacion.csproj.CopyComplete
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\obj\Debug\capapresentacion.dll
+C:\Users\lacuracao\OneDrive - Universidad Nacional Agraria de la Selva\Documents\Integración de sistemas\crud\capapresentacion\obj\Debug\capapresentacion.pdb
